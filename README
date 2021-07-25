@@ -1,0 +1,8 @@
+How to use this package.
+
+Run the codes below.
+
+devtools::install_github("DataScienceProjectsJapan/packageYuji")
+learnr::run_tutorial("Ex5.4.2", "packageYuji")
+
+Then new window appears and it is exercises for 5.4
