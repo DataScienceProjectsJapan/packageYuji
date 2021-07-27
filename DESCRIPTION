@@ -1,15 +1,14 @@
 Package: packageYuji
-Title: What the Package Does (One Line, Title Case)
+Title: Learnr Exercises by YUJI
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "YUJI",
+           family = "YAMAGUCHI",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "yuji_ruzyu@icloud.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+Description: Learnr Exercises in conjunction with R for Data Science by Hadley Wickham & Garrett Grolemund
+License: use_mit_license()
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
