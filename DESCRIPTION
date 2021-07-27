@@ -1,10 +1,14 @@
 Package: packageYuji
-Title: Exercises for tidyverse learner
-Authors: 
+Title: Learnr Exercises by YUJI
+Version: 0.0.0.9000
+Authors@R: 
     person(given = "YUJI",
            family = "YAMAGUCHI",
-           email = "yujiya19@apu.ac.jp",
-Description: bunch of exercises of tidyverse
+           role = c("aut", "cre"),
+           email = "yuji_ruzyu@icloud.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Learnr Exercises in conjunction with R for Data Science by Hadley Wickham & Garrett Grolemund
+License: use_mit_license()
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
