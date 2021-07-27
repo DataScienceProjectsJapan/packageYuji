@@ -25,6 +25,7 @@ In this execise, we are going to use filter(). run the code below to get the inf
 
 Find all flights that depart from LGA and EWR
 ```{r 3, exercise=TRUE, exercise.eval=TRUE}
+Write here
 ```
 
 ## Advance
